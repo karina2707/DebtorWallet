@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DebtorWallet</string>
+    <string name="id_hint">0123456</string>
+</resources>
